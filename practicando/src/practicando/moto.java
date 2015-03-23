@@ -14,6 +14,7 @@ public class moto extends vehiculo{
     public void comenzar() {
         this.Encender(marca);
         
+        
     }
     
     

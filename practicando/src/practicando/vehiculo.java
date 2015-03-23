@@ -29,7 +29,7 @@ public class vehiculo {
         System.out.println("El vehiculo se apago!!");
     }   
      public void Encender(String Marca){
-       System.out.println("El vehiculo"+Marca+" se encendio!!");
+       System.out.println("El vehiculo "+Marca+" se encendio!!");
     
     }
     public void Encender(String Marca, int NumeroPuertas){
