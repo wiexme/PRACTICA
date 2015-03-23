@@ -12,29 +12,14 @@ package practicando;
  */
 //moto, avion
 public class vehiculo {
-    String modelo;
-    String marca;
-    String color;
-    int NumeroRuedas;
+
     
-    public vehiculo(){
-    }
-    
-    public void encender(){
-        System.out.println("El vehiculo se encendio!!");
-        
-    }
-    
-    public void apagar(){
-        System.out.println("El vehiculo se apago!!");
-    }   
      public void Encender(String Marca){
        System.out.println("El vehiculo "+Marca+" se encendio!!");
-    
-    }
-    public void Encender(String Marca, int NumeroPuertas){
-       System.out.println("El vehiculo"+Marca+" con "+NumeroPuertas+" se encendio!!");
-    
-    }
+     }
+     
+     public void Apagar(String Marca){
+         System.out.println("El vehiculo "+Marca+" se apago....");
+     }
     
 }

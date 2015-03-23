@@ -4,10 +4,9 @@ package practicando;
 
 
 public class moto extends vehiculo{
-    int numvocina;
+    String marca;
 
-    public moto(int numvocina, String marca) {
-        this.numvocina = numvocina;
+    public moto(String marca) {
         this.marca = marca;
     }
     
