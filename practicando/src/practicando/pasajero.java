@@ -10,6 +10,10 @@ package practicando;
  *
  * @author GESSEÑY
  */
-public class pasajero {
+public interface pasajero {
+    
+    public void NumeroAsiento();
+    
+    public boolean Pasaje();
     
 }
