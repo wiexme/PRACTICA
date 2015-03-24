@@ -16,10 +16,12 @@ public class vehiculo {
     
      public void Encender(String Marca){
        System.out.println("El vehiculo "+Marca+" se encendio!!");
+       
      }
      
      public void Apagar(String Marca){
          System.out.println("El vehiculo "+Marca+" se apago....");
+         
      }
     
 }

@@ -17,9 +17,6 @@ public class moto extends vehiculo{
             this.Encender(marca);
        
         
-        
-        
-        
     }
     
     
