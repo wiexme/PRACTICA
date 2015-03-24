@@ -3,7 +3,7 @@
 package practicando;
 
 
-public class piloto {
+public abstract class piloto {
     
     int edad= 20;
     String nombre="Geseñi Trigozo";
